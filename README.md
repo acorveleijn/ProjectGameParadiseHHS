@@ -1,3 +1,3 @@
 # ProjectGameParadiseHHS
 
-Tkinter + SQL + python
+Tkinter + CSV + Python + Matplotlib + numpy + pandas
